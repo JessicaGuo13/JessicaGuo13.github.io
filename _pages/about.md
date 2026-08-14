@@ -16,10 +16,10 @@ Before joining McCombs, I earned my M.S. in Marketing from Johns Hopkins Univers
 
 Research Interest
 ======
-AI & Human Interaction
-Digital Platforms
-Advertising
-Consumer & Firm Behavior
+-AI & Human Interaction
+-Digital Platforms
+-Advertising
+-Consumer & Firm Behavior
 
 Education
 ======
