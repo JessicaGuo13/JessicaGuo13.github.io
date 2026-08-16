@@ -14,14 +14,14 @@ I’m especially interested in questions related to consumer behavior, digital p
 Before joining McCombs, I earned my M.S. in Marketing from Johns Hopkins University and my B.A. in Economics from the University of California, San Diego. Outside of research, I enjoy baking, playing music, working out, and occasionally convincing myself that debugging code counts as a personality trait.
 
 
-<h2>Research Interest</h2>
+<h2>Research Interests</h2>
 
-<ul>
-  <li>AI &amp; Human Interaction</li>
-  <li>Digital Platforms</li>
-  <li>Advertising</li>
-  <li>Consumer &amp; Firm Behavior</li>
-</ul>
+<p>
+&bull; AI &amp; Human Interaction<br>
+&bull; Digital Platforms<br>
+&bull; Advertising<br>
+&bull; Consumer &amp; Firm Behavior
+</p>
 
 Education
 ======
