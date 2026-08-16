@@ -15,7 +15,6 @@ Before joining McCombs, I earned my M.S. in Marketing from Johns Hopkins Univers
 
 
 <h2>Research Interests</h2>
-
 <p>
 &bull; AI &amp; Human Interaction<br>
 &bull; Digital Platforms<br>
